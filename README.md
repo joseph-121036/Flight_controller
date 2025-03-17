@@ -5,3 +5,5 @@
 ![image](https://github.com/joseph-121036/Flight_controller/blob/fc/image/flight_controller.png)
 
 
+#### spi 통신을 이용하여 mpu9250과 통신
+https://somyeong.tistory.com/entry/mpu9260-spi%ED%86%B5%EC%8B%A0
